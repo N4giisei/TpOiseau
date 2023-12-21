@@ -12,3 +12,4 @@ Rossignol
 Martinet
 Foulque	macroule
 Outarde	canepetière
+Echasse blanche
